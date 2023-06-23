@@ -1,0 +1,10 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.footer-text{
+  font-size: 25px;
+}
